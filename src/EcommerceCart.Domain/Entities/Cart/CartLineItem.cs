@@ -9,7 +9,7 @@ namespace EcommerceCart.Domain.Entities
 {
     public class CartLineItem
     {
-        private Product Product { get; }
+        public Product Product { get; init; }
         public int Quantity { get; private set; }
 
         public CartLineItem(Product product, int quantity)
