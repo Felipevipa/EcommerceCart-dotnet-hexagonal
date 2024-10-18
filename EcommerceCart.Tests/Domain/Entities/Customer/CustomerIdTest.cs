@@ -3,10 +3,23 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using EcommerceCart.Domain.Entities;
 
-namespace EcommerceCart.Domain.Entities.Test.Customer
+namespace EcommerceCart.Tests.Domain.Entities
 {
-    internal class CustomerIdTest
+    public class CustomerIdTest
     {
+        [Fact]
+        void GivenAGuidValue_NewCustomerId_Succeds()
+        {
+            // Arrange
+            Guid idForNewCustomer = Guid.NewGuid();
+
+            // Act
+            var exception = Record.Exception(() => new CustomerId(idForNewCustomer));
+
+            // Assert
+            Assert.Null(exception);
+        }
     }
 }

@@ -73,10 +73,10 @@ namespace EcommerceCart.Tests.Domain.Entities
             Product product = TestProductFactory.CreateTestProduct(TestMoneyFactory.Euros(15, 23), 4);
 
             // Act
-            var act = Record.Exception(() => cart.AddProduct(product, 4));
+            var exception = Record.Exception(() => cart.AddProduct(product, 4));
 
             // Assert
-            Assert.Null(act);
+            Assert.Null(exception);
         }
 
         [Theory]
