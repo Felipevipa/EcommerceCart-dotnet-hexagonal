@@ -1,0 +1,12 @@
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\bin\Debug\net8.0\EcommerceCart.Infrastructure.deps.json
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\bin\Debug\net8.0\EcommerceCart.Infrastructure.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\bin\Debug\net8.0\EcommerceCart.Infrastructure.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.sourcelink.json
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\refint\EcommerceCart.Infrastructure.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\EcommerceCart.Infrastructure.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Infrastructure\obj\Debug\net8.0\ref\EcommerceCart.Infrastructure.dll

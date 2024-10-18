@@ -1,0 +1,12 @@
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.AssemblyInfo.cs
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.sourcelink.json
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\bin\Debug\net8.0\EcommerceCart.Domain.deps.json
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\bin\Debug\net8.0\EcommerceCart.Domain.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\bin\Debug\net8.0\EcommerceCart.Domain.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\refint\EcommerceCart.Domain.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\EcommerceCart.Domain.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Domain\obj\Debug\net8.0\ref\EcommerceCart.Domain.dll

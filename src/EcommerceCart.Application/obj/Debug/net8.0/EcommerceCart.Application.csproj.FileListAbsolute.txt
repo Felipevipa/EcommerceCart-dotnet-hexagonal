@@ -1,0 +1,12 @@
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\bin\Debug\net8.0\EcommerceCart.Application.deps.json
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\bin\Debug\net8.0\EcommerceCart.Application.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\bin\Debug\net8.0\EcommerceCart.Application.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.AssemblyInfoInputs.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.AssemblyInfo.cs
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.csproj.CoreCompileInputs.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.sourcelink.json
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\refint\EcommerceCart.Application.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\ref\EcommerceCart.Application.dll

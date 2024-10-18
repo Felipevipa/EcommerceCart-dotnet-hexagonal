@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EcommerceCart.Infrastructure/1.0.0": {
+        "runtime": {
+          "EcommerceCart.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcommerceCart.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
