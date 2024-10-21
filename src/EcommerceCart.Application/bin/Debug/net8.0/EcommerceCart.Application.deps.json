@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "EcommerceCart.Application/1.0.0": {
+        "dependencies": {
+          "EcommerceCart.Domain": "1.0.0"
+        },
         "runtime": {
           "EcommerceCart.Application.dll": {}
+        }
+      },
+      "EcommerceCart.Domain/1.0.0": {
+        "runtime": {
+          "EcommerceCart.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "EcommerceCart.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EcommerceCart.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

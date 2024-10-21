@@ -10,3 +10,7 @@ D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0
 D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\refint\EcommerceCart.Application.dll
 D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.pdb
 D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\ref\EcommerceCart.Application.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\bin\Debug\net8.0\EcommerceCart.Domain.dll
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\bin\Debug\net8.0\EcommerceCart.Domain.pdb
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\EcommerceCart.Application.csproj.AssemblyReference.cache
+D:\Proyectos\dotnet\EcommerceCart\src\EcommerceCart.Application\obj\Debug\net8.0\Ecommerc.7592740D.Up2Date

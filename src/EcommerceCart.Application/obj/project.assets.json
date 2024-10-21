@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "EcommerceCart.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EcommerceCart.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EcommerceCart.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "EcommerceCart.Domain/1.0.0": {
+      "type": "project",
+      "path": "../EcommerceCart.Domain/EcommerceCart.Domain.csproj",
+      "msbuildProject": "../EcommerceCart.Domain/EcommerceCart.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "EcommerceCart.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Felipe\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Proyectos\\dotnet\\EcommerceCart\\src\\EcommerceCart.Domain\\EcommerceCart.Domain.csproj": {
+              "projectPath": "D:\\Proyectos\\dotnet\\EcommerceCart\\src\\EcommerceCart.Domain\\EcommerceCart.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
